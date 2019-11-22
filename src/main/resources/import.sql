@@ -22,7 +22,7 @@ INSERT INTO clientes (id, nombre, apellido, email, create_at, foto) VALUES(20, '
 INSERT INTO clientes (id, nombre, apellido, email, create_at, foto) VALUES(21, 'John', 'Doe', 'john.doe@gmail.com', '2017-08-28', '');
 INSERT INTO clientes (id, nombre, apellido, email, create_at, foto) VALUES(22, 'John', 'Doe', 'john.doe@gmail.com', '2017-08-28', '');
 
-/* Populate tabla Productos */
+/* Populate Productos */
 INSERT INTO productos (nombre, precio, create_at) VALUES('Panasonic Pantalla LCD ', 350, NOW());
 INSERT INTO productos (nombre, precio, create_at) VALUES('Sony Camara Digital DSC-w3468', 850, NOW());
 INSERT INTO productos (nombre, precio, create_at) VALUES('Apple Aipod Shuffle', 380, NOW());

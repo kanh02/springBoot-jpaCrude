@@ -34,6 +34,8 @@ public class Producto implements Serializable {
 		createAt = new Date();
 	}
 
+	
+
 	public Long getId() {
 		return id;
 	}
